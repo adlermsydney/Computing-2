@@ -1,1 +1,1 @@
-# Computing-2
+This respository is for GNSC 3301. 
